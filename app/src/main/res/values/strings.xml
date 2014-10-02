@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyAlarmApp</string>
+    <string name="manual_start">Manually started, exit me then reboot</string>
+    <string name="i_am_awake">I am now awake!</string>
+    <string name="ack_label">Agreed, you are awake</string>
+</resources>
